@@ -128,8 +128,8 @@ The project demonstrates how raw hospital emergency-room data can be converted i
 
 ##👩‍💻 Author
 
-Deepakshi Jain
-B.Tech Computer Science Engineering
+Deepakshi Jain/
+B.Tech Computer Science Engineering/
 Aspiring Data Analyst
 
 ⭐ If you find this project useful, feel free to star the repository!
