@@ -10,117 +10,117 @@ This project transforms emergency-room data into an interactive visual dashboard
 
 ##🎯 Objectives
 
-Analyze emergency-room patient data.
+-Analyze emergency-room patient data.
 
-Track the total number of patients.
+-Track the total number of patients.
 
-Monitor average patient waiting time.
+-Monitor average patient waiting time.
 
-Analyze patient satisfaction.
+-Analyze patient satisfaction.
 
-Compare admitted and non-admitted patients.
+-Compare admitted and non-admitted patients.
 
-Analyze patient demographics by gender and age.
+-Analyze patient demographics by gender and age.
 
-Identify department referral patterns.
+-Identify department referral patterns.
 
-Provide an easy-to-use monthly and yearly reporting dashboard.
+-Provide an easy-to-use monthly and yearly reporting dashboard.
 
-Present data-driven insights through effective visualizations.
+-Present data-driven insights through effective visualizations.
 
 ##📊 Dashboard Features
 
-🔹 Key Performance Indicators (KPIs)
+-> Key Performance Indicators (KPIs)
 
-Number of Patients
+-Number of Patients
 
-Average Wait Time
+-Average Wait Time
 
-Patient Satisfaction Score
+-Patient Satisfaction Score
 
-🔹 Patient Attendance Analysis
+-> Patient Attendance Analysis
 
 A chart shows the distribution of patients based on their attendance/admission status.
 
-🔹 Gender-wise Analysis
+-> Gender-wise Analysis
 
 Visualizes the percentage of male and female patients.
 
-🔹 Admission Status
+-> Admission Status
 
 Provides a detailed comparison of admitted and non-admitted patients, including patient counts and percentage distribution.
 
-🔹 Age Group Analysis
+-> Age Group Analysis
 
 Analyzes patient distribution across different age groups: 0–09, 10–19, 20–29, 30–39, 40–49, 50–59, 60–69, and 70–79.
 
-🔹 Department Referral Analysis
+-> Department Referral Analysis
 
 Shows the number of patients referred to different departments/categories, helping identify areas receiving the highest patient volume.
 
-🔹 Monthly & Yearly Filtering
+-> Monthly & Yearly Filtering
 
 Users can select different months and years to explore hospital data and generate focused reports.
 
 ##🛠️ Tools & Technologies
 
-Microsoft Excel
+-Microsoft Excel
 
-Excel Charts
+-Excel Charts
 
-Pivot Tables / Pivot Charts
+-Pivot Tables / Pivot Charts
 
-Excel Formulas
+-Excel Formulas
 
-Data Cleaning
+-Data Cleaning
 
-Data Analysis
+-Data Analysis
 
-Data Visualization
+-Data Visualization
 
-Dashboard Design
+-Dashboard Design
 
 ##📈 Key Insights
 
 The dashboard can be used to answer questions such as:
 
-How many patients visited the emergency room?
+-How many patients visited the emergency room?
 
-What is the average waiting time?
+-What is the average waiting time?
 
-What is the patient satisfaction score?
+-What is the patient satisfaction score?
 
-What percentage of patients were admitted?
+-What percentage of patients were admitted?
 
-What is the gender distribution of patients?
+-What is the gender distribution of patients?
 
-Which age group has the highest number of patients?
+-Which age group has the highest number of patients?
 
-Which departments receive the most referrals?
+-Which departments receive the most referrals?
 
-How do patient metrics change by month and year?
+-How do patient metrics change by month and year?
 
 ##💡 Skills Demonstrated
 
-Data cleaning and preparation
+-Data cleaning and preparation
 
-Exploratory Data Analysis (EDA)
+-Exploratory Data Analysis (EDA)
 
-KPI creation
+-KPI creation
 
-Data visualization
+-Data visualization
 
-Dashboard development
+-Dashboard development
 
-Pivot Table analysis
+-Pivot Table analysis
 
-Interactive filtering
+-Interactive filtering
 
-Healthcare data analysis
+-Healthcare data analysis
 
-Business-oriented insight generation
+-Business-oriented insight generation
 
-Data storytelling
+-Data storytelling
 
 ##🎯 Project Outcome
 
